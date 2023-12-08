@@ -7,7 +7,7 @@ using WebApplication4.Models.Contexts;
 using WebApplication4.Models.Entities;
 using WebApplication4.Models.Enums;
 using WebApplication4.ViewModels.Consulta;
-
+/*testando */
 namespace WebApplication4.Controllers
 {
     public class ConsultasController : Controller
